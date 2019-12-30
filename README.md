@@ -1,2 +1,2 @@
-# projects
-Portfolio of fun side projects
+# It's A Small World Interactive Toy
+Portfolio project
